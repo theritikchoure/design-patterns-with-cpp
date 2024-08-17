@@ -35,7 +35,7 @@ Design patterns in software engineering are generally categorized into three mai
 | **Creational Patterns** | **Singleton**          | Ensures a class has only one instance and provides a global point of access to it.                          |
 |                        | **Factory Method**     | Defines an interface for creating an object but lets subclasses alter the type of objects that will be created. |
 |                        | **Abstract Factory**   | Provides an interface for creating families of related or dependent objects without specifying their concrete classes. |
-|                        | **Builder**            | Separates the construction of a complex object from its representation so that the same construction process can create different representations. |
+|                        | **Builder**            | Separates the construction of a complex object from its representation so that the same construction process can create different representations. (complex object with different configurations)|
 |                        | **Prototype**          | Specifies the kinds of objects to create using a prototypical instance and creates new objects by copying this prototype. |
 | **Structural Patterns** | **Adapter**            | Converts the interface of a class into another interface clients expect.                                           |
 |                        | **Bridge**             | Decouples an abstraction from its implementation so that the two can vary independently.                    |
